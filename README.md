@@ -50,5 +50,5 @@ The 𝗞𝗲𝘆𝗻𝗼𝘁𝗲 𝗽𝗿𝗲𝘀𝗲𝗻𝘁𝗮𝘁𝗶𝗼�
 - Shasmitha R   
 
 ## 📜 License
-This project is licensed under the 𝗠𝗜𝗧 𝗟𝗶𝗰𝗲𝗻𝘀𝗲 – free to use, modify, and distribute.  
+This project is made under Faculty Guidance as an In-House Project as a part of our Curriculum  
 
